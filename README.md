@@ -25,4 +25,8 @@ WHEN I click on the logout button
 Then I am logged out of the site and presented with a menu with the option search for books and login sign up and an input field to search for books and a submit button
 
 
+https://alphaquinn.github.io/challenge21booksearch/ 
+
+application is non-functional but utilizes bcrypt, express, graphql, mongoose, and jsonwebtoken
+
 
